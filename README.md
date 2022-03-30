@@ -1,4 +1,4 @@
-## README Generator
+## Text Editor
 
 ## Table of Contents
 
@@ -6,7 +6,7 @@
 
 ## Description
 
-Generates a professional README.md file quickly based off of user input prompts.
+A PWA text editor that can be ran in your browser or installed.
 
 ## License
 
@@ -15,15 +15,15 @@ Generates a professional README.md file quickly based off of user input prompts.
 
 ## Deployed Application
 
-https://seaninches.github.io/read-me-generator/
+https://peaceful-eyrie-47239.herokuapp.com/
 
 ## Github Repo
 
-https://github.com/SeanInches/read-me-generator
+https://github.com/SeanInches/Text-Editor
 
 ## Installation
 
-In your command line, type "npm i inquirer" and "npm i fs" then "node index.js". Fill out the prompts.
+npm run build. npm run start. or download from deployed.
 
 ## Usage
 
@@ -31,8 +31,7 @@ In your command line, type "npm i inquirer" and "npm i fs" then "node index.js".
 
 ## Credits
 
-NPMJS
-https://github.com/alexandresanlim/Badges4-README.md-Profile
+-
 
 ## Badges
 
@@ -41,11 +40,11 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 ## Contribute
 
-None.
+-
 
 ## Tests
 
-None.
+-
 
 ## Questions?
 
